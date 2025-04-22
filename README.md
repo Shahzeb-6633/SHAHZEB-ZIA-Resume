@@ -31,6 +31,15 @@
 
   <!-- Header -->
   <header class="text-center py-8 bg-gradient-to-r from-purple-500 via-indigo-500 to-blue-500 text-white">
+      <!-- Profile Image -->
+  <img 
+    src="DSC. COPY.jpg" 
+    alt="Shahzeb Zia" 
+    class="mx-auto rounded-full w-32 h-32 sm:w-40 sm:h-40 border-4 border-white shadow-lg mb-4 transition-transform duration-300 hover:scale-105"
+  >
+
+  <!-- Name & Title -->
+
     <h1 class="text-4xl font-display font-bold">Shahzeb Zia</h1>
     <p class="text-lg mt-1">Aspiring Entrepreneur | Focused on Studies & Innovation</p>
     <p class="text-sm mt-2">Student at IIM Bangalore</p>
